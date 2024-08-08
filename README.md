@@ -24,7 +24,7 @@
 
 My name is Allan Almeida, and I'm passionate about software development! I hold a degree in Electrical Engineering ⚡️ and I'm currently pursuing a master's degree in the same field, specializing in Machine Learning and Robotics. While my formal education may not be directly related to software development, my journey through college ignited a deep passion for programming.
 
-Over the past three years, I've honed my skills as a software developer, delving into a diverse array of technologies spanning from low-level languages like C/C++ to high-level ones such as Node.js and React. Although I've explored various technology domains, my primary focus lies in backend development. During this time, I've gained hands-on experience with frameworks like Node.js (TypeScript and JavaScript), ASP.NET (C#), Golang, and Flask (Python), crafting RESTful APIs, MVC systems, and cybersecurity solutions.
+Over the past years, I've honed my skills as a software developer, diving into a diverse array of technologies spanning from low and mid-level languages like C/C++ to high-level ones such as Node.js and React. Although I've explored various technology domains, my primary focus lies in backend development. During this time, I've gained hands-on experience with frameworks like Node.js (TypeScript and JavaScript), ASP.NET (C#), Golang, and Flask (Python), crafting RESTful APIs, MVC systems, and cybersecurity solutions.
 
 Additionally, I had the experience of working with cloud computing (AWS), setting up services like Lambda Functions, CloudFront, EC2, S3 and DynamoDB using IaC (Terraform).
 
